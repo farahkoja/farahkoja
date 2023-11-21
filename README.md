@@ -1,5 +1,5 @@
 <h1>Hi, I'm Farah! <br/><a href='https://codepen.io/your-work/'>Programmer</a> and <a href="https://www.linkedin.com/in/farah-koja/">Aspiring Cybersecurity Professional</a></h1>
-<h2>Cybersecurity Projects</h2>
+<h2>Cybersecurity Projects:</h2>
 <b>Powershell:</b><br>
 - <b> Coming Soon !! </b><br>
 <b>Python:</b><br>
