@@ -10,5 +10,5 @@
 - <b>Google Cybersecurity Certificate</b><br>
 - <b>PCAP: Programming Essentials in Python </b>
 
-<h2>🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 <a href='https://www.linkedin.com/in/farah-koja/'><img align="left" alt="Farah Koja | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
