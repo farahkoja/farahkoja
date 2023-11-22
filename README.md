@@ -4,7 +4,7 @@
 - <b> Coming Soon !! </b><br>
 <b>Python:</b><br>
 - <b> Coming Soon !! </b><br>
-<b>SQL</b><br>
+<b>SQL:</b><br>
 - <b> Coming Soon !! </b>
 <h2>Certificates:</h2>
 - <b>Google Cybersecurity Certificate</b><br>
